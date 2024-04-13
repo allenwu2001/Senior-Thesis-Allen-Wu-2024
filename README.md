@@ -1,4 +1,4 @@
-# Senior_Thesis_S24
+# Senior Thesis (Allen Wu, 2024)
 This repository includes the code for Allen Wu's Senior Thesis Project at Princeton University in 2024.
 
 
